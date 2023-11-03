@@ -1,1 +1,4 @@
-pac-monitor-env
+venv
+__pycache__
+example.sqlite
+persistence
